@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4edd890c-ecf1-414f-8912-b2167218caae" name="Changes" comment="" />
+    <list default="true" id="01489c14-0665-41b5-9924-5c36de14f461" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="add_black_joke" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,35 +21,54 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;chaseJ789&quot;
+    &quot;assignee&quot;: &quot;ogwregs&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:chaseJ789/Simon-Ben-Chase-Kyle-GitHub-Practice-1.git&quot;,
-    &quot;accountId&quot;: &quot;5a576f2a-705a-4a93-beb2-07e50822f915&quot;
+    &quot;url&quot;: &quot;git@github.com:ogwregs/Simon-Ben-Chase-Kyle-GitHub-Practice-1.git&quot;,
+    &quot;accountId&quot;: &quot;40f9a0cf-75b8-4db8-a0a4-a280afca975a&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="3BgcGrklWV0FzchdkBiVzRrLjMu" />
+  <component name="ProjectId" id="3Bgc4Dbd25X7hdLhn2aruqqBv8x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chase/OneDrive/Desktop/CS260/Simon-Ben-Chase-Kyle-GitHub-Practice-1",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/simonotoole/Desktop/Spring2026/CSCI260/Simon-Ben-Chase-Kyle-GitHub-Practice-1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,15 +79,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4edd890c-ecf1-414f-8912-b2167218caae" name="Changes" comment="" />
-      <created>1774914061030</created>
+      <changelist id="01489c14-0665-41b5-9924-5c36de14f461" name="Changes" comment="" />
+      <created>1774913961186</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1774914061030</updated>
-      <workItem from="1774914062479" duration="1011000" />
-      <workItem from="1774915106451" duration="1235000" />
-      <workItem from="1776641720211" duration="3385000" />
-      <workItem from="1776645157549" duration="945000" />
+      <updated>1774913961186</updated>
+      <workItem from="1774913962459" duration="921000" />
+      <workItem from="1774915247445" duration="2047000" />
+      <workItem from="1776640771276" duration="2376000" />
+      <workItem from="1776643255050" duration="2108000" />
+      <workItem from="1776645561198" duration="713000" />
     </task>
     <servers />
   </component>
