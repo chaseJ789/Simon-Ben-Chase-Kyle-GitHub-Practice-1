@@ -60,6 +60,27 @@ public class Main {
 
         System.out.println("Keith Lee");
     }
+
+    public static void BeepBoop()
+    {
+        System.out.println("What do Black people get on December 21?");
+
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("What?");
+
+        try {
+            Thread.sleep(2500);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        System.out.println("Superpowers");
+    }
 }
     public static void main(String[] args) {
         // Add code to print "Hello, world!" here

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4edd890c-ecf1-414f-8912-b2167218caae" name="Changes" comment="" />
+    <list default="true" id="4edd890c-ecf1-414f-8912-b2167218caae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +44,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "add__another__joke",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/chase/OneDrive/Desktop/CS260/Simon-Ben-Chase-Kyle-GitHub-Practice-1",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Simon-Ben-Chase-Kyle-GitHub-Practice-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Simon-Ben-Chase-Kyle-GitHub-Practice-1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,7 +82,9 @@
       <workItem from="1774914062479" duration="1011000" />
       <workItem from="1774915106451" duration="1235000" />
       <workItem from="1776641720211" duration="3385000" />
-      <workItem from="1776645157549" duration="945000" />
+      <workItem from="1776645157549" duration="2407000" />
+      <workItem from="1776725584181" duration="26000" />
+      <workItem from="1777264192309" duration="3350000" />
     </task>
     <servers />
   </component>
